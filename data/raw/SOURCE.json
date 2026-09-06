@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/geniesinc/Memora.git",
+  "commit": "a6493188efc836d6511ed5e4163fe3ba87da30ff",
+  "period": "weekly",
+  "personas": [
+    "software_engineer",
+    "financial_analyst",
+    "creative_designer"
+  ]
+}

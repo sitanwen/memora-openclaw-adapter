@@ -1,0 +1,17 @@
+{
+  "source_repository": "https://github.com/geniesinc/Memora.git",
+  "source_commit": "a6493188efc836d6511ed5e4163fe3ba87da30ff",
+  "period": "weekly",
+  "personas": [
+    "software_engineer",
+    "financial_analyst",
+    "creative_designer"
+  ],
+  "expected_sessions": {
+    "software_engineer": 163,
+    "financial_analyst": 156,
+    "creative_designer": 147
+  },
+  "expected_questions_per_persona": 15,
+  "selection_reason": "固定选择技术、金融、创意三个差异较大的 persona，在较小成本下覆盖 Remembering、Reasoning、Recommending 三类任务。"
+}

@@ -1,0 +1,16 @@
+[project]
+name = "memora-openclaw-adapter"
+version = "0.1.0"
+description = "将 Memora 长期记忆数据集适配为 LoCoMo-like 与 openclaw-eval 输入格式"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
